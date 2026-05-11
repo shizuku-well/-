@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "versionCode": 200,
+  "updateUrl": "https://example.com/app.apk",
+  "changelog": "1. 修复已知问题\n2. 优化性能\n3. 新增xxx功能",
+  "forceUpdate": false
+}
